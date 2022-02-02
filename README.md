@@ -16,8 +16,9 @@ The program computes the dot product of two vectors which is given by:
 
 $\vec{v_1} \cdot \vec{v_2}$
 
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 ## Requirements
 
