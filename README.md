@@ -17,7 +17,7 @@ The program computes the dot product of two vectors which is given by:
 $\vec{v_1} \cdot \vec{v_2}$
 
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+SE = $\frac{\sigma}{\sqrt{n}}$
 ```
 
 ## Requirements
