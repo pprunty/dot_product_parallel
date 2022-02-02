@@ -33,7 +33,7 @@ double task_based(std::vector<double> v1, std::vector<double> v2);
 double packaged_tasks(std::vector<double> v1, std::vector<double> v2);
 
 
-/** \brief		            A simple function which uses a serial method to compute the dot product of two
+/** \brief                  A simple function which uses a serial method to compute the dot product of two
  *                          vectors in parallel.
  *  \param v1               The first vector
  *  \param v2               The second vector
@@ -52,7 +52,7 @@ double serial_version(std::vector<double> v1, std::vector<double> v2) {
     return dot_prod;
 }
 
-/** \brief		            A simple function which uses a tasked based method to compute the dot product of two
+/** \brief                  A simple function which uses a tasked based method to compute the dot product of two
  *                          vectors in parallel.
  *  \param v1               The first vector
  *  \param v2               The second vector
@@ -78,7 +78,7 @@ double task_based(std::vector<double> v1, std::vector<double> v2) {
     return dot_prod;
 }
 
-/** \brief		            A simple function which uses packaged tasks to compute the dot product of two
+/** \brief                  A simple function which uses packaged tasks to compute the dot product of two
  *                          vectors in parallel.
  *  \param v1               The first vector
  *  \param v2               The second vector
