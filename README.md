@@ -14,7 +14,7 @@ dot product of two vectors v1 and v2 of a given size N.
 
 The program computes the dot product of two vectors which is given by:
 
-$$\vec{v_1} \cdot \vec{v_2}$$
+![Screenshot](graphics/dot_product.png)
 
 ## Requirements
 
