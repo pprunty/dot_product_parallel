@@ -1,3 +1,5 @@
+Part of a college assignment...
+
 # Dot Product Parallel
 
 This program is used to benchmark different parallel thread policies for computing the
